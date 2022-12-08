@@ -15,7 +15,7 @@ Note: the 404.html page was not used on the live site.
 ## Update 12/8/2022:
 Since I am out of high school and finished with TSA competitions, I wanted to open-source the work that I did to help those who may be looking at these competitions for the first time.  Being able to see previous examples can be really helpful when you are new to web design and coding.  I congratulate you for even approaching these competitions as they are valuable to build your skills in this ever-expanding field early on.  
 
-Please, DO NOT use this code in your projects, but please use it as reference to see what has been done in the past.
+Please, do not copy/paste this code for your project, but understand what it does and how to build it yourself. These competitions are meant to be a learning experience for you, and keep it as such.
 
 Will Paxton
 
